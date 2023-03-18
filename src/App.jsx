@@ -27,6 +27,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <p className='text-2xl'>If you want to use tailwind css then just go to index.css file and uncomment 1st 3 lines</p>
     </div>
   )
 }
